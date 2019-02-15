@@ -1,0 +1,2 @@
+C:\Users\kasat2\Downloads\IATK-master\wall2\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\kasat2\Downloads\IATK-master\wall2\App\wall2\wall2.csproj;x86
